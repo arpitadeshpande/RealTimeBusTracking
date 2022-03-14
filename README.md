@@ -8,6 +8,9 @@ Installing is very easy...
 - Keep the files in the respective locations  
 - Open the html file in the browser  
 *I recommend using chrome*  
+
+### Roadmap  
+May be we can update some styles and markers. Along with we can add additional button for go back to first stop something like that.
  
 ##### License information  
 Code from MIT Xpro 
